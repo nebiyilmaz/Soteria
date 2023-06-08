@@ -1,9 +1,9 @@
-+# dist
-+dist
-+public
-+node_modules
-+.env
-+.idea
-+.vscode
-+.DS_Store
-+old
+# dist
+dist
+public
+node_modules
+.env
+.idea
+.vscode
+.DS_Store
+old
