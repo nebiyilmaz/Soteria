@@ -1,0 +1,22 @@
+[
+    {
+        "label": "Critical",
+        "y": 5
+    },
+    {
+        "label": "High",
+        "y": 159
+    },
+    {
+        "label": "Medium",
+        "y": 382
+    },
+    {
+        "label": "Low",
+        "y": 0
+    },
+    {
+        "label": "Info",
+        "y": 0
+    }
+]

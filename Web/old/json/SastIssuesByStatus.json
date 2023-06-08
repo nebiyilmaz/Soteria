@@ -1,0 +1,11 @@
+[
+    {
+        "label": "Closed Issues",
+        "y": 425,
+        "exploded": true
+    },
+    {
+        "label": "Open Issues",
+        "y": 121
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "label": "Internal Pentests",
+        "y": 3
+    },
+    {
+        "label": "Vulnerability Scans",
+        "y": 20
+    },
+    {
+        "label": "Vulnerability Investigations",
+        "y": 12
+    },
+    {
+        "label": "Application Security Assessments",
+        "y": 2
+    },
+    {
+        "label": "Log Reviews",
+        "y": 8
+    }
+]
